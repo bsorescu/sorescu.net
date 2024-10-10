@@ -1,4 +1,4 @@
-baseURL = "https://sorescu-net.pages.dev/content/posts/"
+baseURL = "https://sorescu-net.pages.dev/"
 languageCode = 'en-us'
 title = 'sorescu.net'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
